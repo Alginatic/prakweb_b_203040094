@@ -1,3 +1,6 @@
+<!-- Rizky Mahendra
+203040094 -->
+
 <?php
 
 require_once 'core/App.php';
